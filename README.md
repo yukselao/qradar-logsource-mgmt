@@ -1,5 +1,7 @@
 # qradar-logsource-mgmt
 
+
+'''
 Usage Logs:
 
 [root@qradar log-soource-mgmt]# ./set.sh 412 8090 eventTable mytable_202205 &>/dev/null
@@ -15,3 +17,4 @@ Usage Logs:
   "id": 8090,
   "value": "mytable_202207"
 }
+'''
